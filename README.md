@@ -11,7 +11,7 @@ npm i execon --save
 ## Api
 
 ```js
-    var exec = require('execon');
+var exec = require('execon');
 ```
 
 ### exec
