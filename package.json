@@ -13,5 +13,5 @@
   "engines": {
     "node": ">=0.8"
   },
-  "main": "lib/check.js"
+  "main": "lib/exec.js"
 }
