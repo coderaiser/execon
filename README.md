@@ -79,7 +79,7 @@ if a you need a couple async operation do same work, and then call callback, thi
 
 ```js
 var fs      = require('fs'),
-    Util    = require('util-io');
+    Util    = require('execon');
 
 exec.parallel([
     function(callback) {
