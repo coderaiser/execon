@@ -1,0 +1,17 @@
+{
+  "name": "execon",
+  "version": "1.0.0",
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+  "description": "Patterns of function calls",
+  "homepage": "http://github.com/coderaiser/node-execon",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/coderaiser/node-execon.git"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.8"
+  },
+  "main": "lib/check.js"
+}
