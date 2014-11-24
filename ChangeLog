@@ -1,0 +1,5 @@
+2014.11.24, v1.0.1
+
+fix:
+- (package) check -> exec
+
