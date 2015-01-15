@@ -131,7 +131,9 @@ function two(callback) {
     callback();
 }
 
-exec.series([one, two]);
+exec.series([one, two], function(error) {
+    console.log(error || 'done');
+});
 ```
 
 ## License
