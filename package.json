@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "Patterns of function calls",
-  "homepage": "http://github.com/coderaiser/node-execon",
+  "homepage": "http://github.com/coderaiser/execon",
   "repository": {
     "type": "git",
-    "url": "git://github.com/coderaiser/node-execon.git"
+    "url": "git://github.com/coderaiser/execon.git"
   },
   "dependencies": {},
   "license": "MIT",
