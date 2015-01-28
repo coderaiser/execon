@@ -6,6 +6,8 @@ Patterns of function calls.
 
 ```
 npm i execon --save
+# or
+bower i execon --save
 ```
 
 ## Api
