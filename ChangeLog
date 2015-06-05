@@ -1,3 +1,9 @@
+2015.06.05, v1.2.2
+
+feature:
+- (exec) with: callback.bind -> bind.apply
+
+
 2015.06.05, v1.2.1
 
 feature:
