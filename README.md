@@ -1,4 +1,4 @@
-# Execon [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL][BuildStatusIMGURL]][BuildStatusURL]
+# Execon [![License][LicenseIMGURL]][LicenseURL] [![NPM version][NPMIMGURL]][NPMURL] [![Dependency Status][DependencyStatusIMGURL]][DependencyStatusURL] [![BuildStatusIMGURL]][BuildStatusURL]
 
 Patterns of function calls.
 
